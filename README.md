@@ -2,7 +2,7 @@
 
 Models used:
 1. Logistic Regression
-2. SVM
+2. LightGBM
 3. Decision tree
 4. Random Forest
 5. XGBoost
